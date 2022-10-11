@@ -1,0 +1,4 @@
+(library
+ (libraries core)
+ (public_name plateau)
+ (name plateau))
